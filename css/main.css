@@ -237,6 +237,7 @@ hr { border: none; border-top: 1px solid #eaeaea; margin: 1.5rem 0; }
   margin-right: 0.4rem;
 }
 .paper-box-text .paper-links .paper-stars {
+  display: inline-block;
   height: 1.1em;
   vertical-align: middle;
   margin-left: 0.1rem;
