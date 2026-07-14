@@ -231,6 +231,7 @@ hr { border: none; border-top: 1px solid #eaeaea; margin: 1.5rem 0; }
 .paper-box-text .paper-links {
   font-size: 0.9rem;
   margin: 0.8rem 0 0.35rem;
+  white-space: nowrap;
 }
 .paper-box-text .paper-links a {
   margin-right: 0.4rem;
