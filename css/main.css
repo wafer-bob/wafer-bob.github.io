@@ -235,6 +235,11 @@ hr { border: none; border-top: 1px solid #eaeaea; margin: 1.5rem 0; }
 .paper-box-text .paper-links a {
   margin-right: 0.4rem;
 }
+.paper-box-text .paper-links .paper-stars {
+  height: 1.1em;
+  vertical-align: middle;
+  margin-left: 0.1rem;
+}
 
 /* ============ Responsive ============ */
 @media (max-width: 900px) {
