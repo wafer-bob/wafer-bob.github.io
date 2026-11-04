@@ -230,7 +230,6 @@ hr { border: none; border-top: 1px solid #eaeaea; margin: 1.5rem 0; }
   font-size: 0.9rem;
   color: #444;
   line-height: 1.4;
-  text-wrap: balance;
   margin: 0.15rem 0 0;
 }
 .paper-box-text .paper-venue {
