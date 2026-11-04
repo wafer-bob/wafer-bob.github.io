@@ -226,7 +226,8 @@ hr { border: none; border-top: 1px solid #eaeaea; margin: 1.5rem 0; }
 .paper-box-text .paper-authors {
   font-size: 0.9rem;
   color: #444;
-  margin: 0.15rem 0;
+  line-height: 1.4;
+  margin: 0.15rem 0 0;
 }
 .paper-box-text .paper-venue {
   display: inline-block;
@@ -238,7 +239,8 @@ hr { border: none; border-top: 1px solid #eaeaea; margin: 1.5rem 0; }
 }
 .paper-box-text .paper-links {
   font-size: 0.9rem;
-  margin: 0.8rem 0 0.35rem;
+  line-height: 1.5;
+  margin: 0.4rem 0 0;
   white-space: nowrap;
 }
 .paper-box-text .paper-links a {
